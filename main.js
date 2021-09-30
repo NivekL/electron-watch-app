@@ -30,7 +30,7 @@ function createWindow() {
 
   // and load an URL
   // (switch to real web server when you go live with the project)
-  mainWindow.loadURL('http://localhost:3000');
+  mainWindow.loadURL('https://kevles.clientsmile.se');
 
   // On some Windows machines explicitely asking the mainWindow
   // to show seems to be necessary to show the appliction
